@@ -76,7 +76,7 @@ lib/
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/aravinthk00/MyBooks
+git clone https://github.com/aravinthk00/MyBooksApp.git
 cd mybooks-flutter
 ```
 
