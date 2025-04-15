@@ -122,7 +122,10 @@ flutter serve
 
 ## 🖼️ Screenshots
 
-> Add your app's screenshots here if available (List Page, Detail Page, Favorites Page)
+![books_list](https://github.com/user-attachments/assets/a59f7805-3c60-4388-9a8f-0ed24af901c1)
+![favourites](https://github.com/user-attachments/assets/c005f0da-94a6-4f9a-bec9-398c81e0e451)
+![details](https://github.com/user-attachments/assets/1be6121e-4152-4e69-9ab2-646e1997e643)
+
 
 ---
 
