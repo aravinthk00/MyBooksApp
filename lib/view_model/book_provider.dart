@@ -9,7 +9,7 @@ import '../data/services/api_service.dart';
 class BookProvider extends ChangeNotifier {
 
 
-  List<Works> _myBooksList = [];
+  final List<Works> _myBooksList = [];
   Book _myBookApiResponse = Book();
   bool _isLoading = false;
   bool _isSearching = false;

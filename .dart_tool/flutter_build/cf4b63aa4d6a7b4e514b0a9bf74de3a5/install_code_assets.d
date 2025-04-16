@@ -1,0 +1,1 @@
+ D:\\ProjecDemos\\FlutterDemos\\MyBooksApp\\.dart_tool\\flutter_build\\cf4b63aa4d6a7b4e514b0a9bf74de3a5\\native_assets.json: 

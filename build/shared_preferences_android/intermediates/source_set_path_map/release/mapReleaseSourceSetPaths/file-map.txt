@@ -35,8 +35,8 @@ io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-datasto
 io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-startup-runtime-1.1.1-34 C:\Users\admin\.gradle\caches\8.10.2\transforms\ffafe5f631203f4924364ba072ee19e0\transformed\jetified-startup-runtime-1.1.1\res
 io.flutter.plugins.sharedpreferences.shared_preferences_android-main-35 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.9\android\src\main\res
 io.flutter.plugins.sharedpreferences.shared_preferences_android-release-36 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.9\android\src\release\res
-io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-37 D:\Projects\Flutter\my_books\build\shared_preferences_android\generated\res\pngs\release
-io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-38 D:\Projects\Flutter\my_books\build\shared_preferences_android\generated\res\resValues\release
-io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-39 D:\Projects\Flutter\my_books\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-40 D:\Projects\Flutter\my_books\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.flutter.plugins.sharedpreferences.shared_preferences_android-release-41 D:\Projects\Flutter\my_books\build\shared_preferences_android\intermediates\merged_res\release\mergeReleaseResources
+io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-37 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\shared_preferences_android\generated\res\pngs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-38 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\shared_preferences_android\generated\res\resValues\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-39 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-40 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-41 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\shared_preferences_android\intermediates\merged_res\release\mergeReleaseResources

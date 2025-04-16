@@ -20,8 +20,8 @@ dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-core-ktx-1.13.1
 dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-startup-runtime-1.1.1-19 C:\Users\admin\.gradle\caches\8.10.2\transforms\ffafe5f631203f4924364ba072ee19e0\transformed\jetified-startup-runtime-1.1.1\res
 dev.fluttercommunity.plus.packageinfo.package_info_plus-main-20 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.3.0\android\src\main\res
 dev.fluttercommunity.plus.packageinfo.package_info_plus-release-21 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-8.3.0\android\src\release\res
-dev.fluttercommunity.plus.packageinfo.package_info_plus-pngs-22 D:\Projects\Flutter\my_books\build\package_info_plus\generated\res\pngs\release
-dev.fluttercommunity.plus.packageinfo.package_info_plus-resValues-23 D:\Projects\Flutter\my_books\build\package_info_plus\generated\res\resValues\release
-dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-24 D:\Projects\Flutter\my_books\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
-dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-25 D:\Projects\Flutter\my_books\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-dev.fluttercommunity.plus.packageinfo.package_info_plus-release-26 D:\Projects\Flutter\my_books\build\package_info_plus\intermediates\merged_res\release\mergeReleaseResources
+dev.fluttercommunity.plus.packageinfo.package_info_plus-pngs-22 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\package_info_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-resValues-23 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\package_info_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-24 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-25 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-26 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\package_info_plus\intermediates\merged_res\release\mergeReleaseResources

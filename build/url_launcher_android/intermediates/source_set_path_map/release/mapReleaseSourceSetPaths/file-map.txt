@@ -21,8 +21,8 @@ io.flutter.plugins.urllauncher.url_launcher_android-jetified-core-ktx-1.13.1-19 
 io.flutter.plugins.urllauncher.url_launcher_android-jetified-startup-runtime-1.1.1-20 C:\Users\admin\.gradle\caches\8.10.2\transforms\ffafe5f631203f4924364ba072ee19e0\transformed\jetified-startup-runtime-1.1.1\res
 io.flutter.plugins.urllauncher.url_launcher_android-main-21 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.15\android\src\main\res
 io.flutter.plugins.urllauncher.url_launcher_android-release-22 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.15\android\src\release\res
-io.flutter.plugins.urllauncher.url_launcher_android-pngs-23 D:\Projects\Flutter\my_books\build\url_launcher_android\generated\res\pngs\release
-io.flutter.plugins.urllauncher.url_launcher_android-resValues-24 D:\Projects\Flutter\my_books\build\url_launcher_android\generated\res\resValues\release
-io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-25 D:\Projects\Flutter\my_books\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-26 D:\Projects\Flutter\my_books\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.flutter.plugins.urllauncher.url_launcher_android-release-27 D:\Projects\Flutter\my_books\build\url_launcher_android\intermediates\merged_res\release\mergeReleaseResources
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-23 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\generated\res\pngs\release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-24 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\generated\res\resValues\release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-25 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-26 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-release-27 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\intermediates\merged_res\release\mergeReleaseResources

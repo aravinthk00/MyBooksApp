@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="35" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:3:5-66
-11-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:3:22-64
+11-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:3:5-66
+11-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:3:22-64
 12    <!--
 13         Required to query activities that can process text, see:
 14         https://developer.android.com/training/package-visibility and
@@ -19,22 +19,22 @@
 17         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 18    -->
 19    <queries>
-19-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:41:5-46:15
+19-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:41:5-46:15
 20        <intent>
-20-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:42:9-45:18
+20-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:42:9-45:18
 21            <action android:name="android.intent.action.PROCESS_TEXT" />
-21-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:43:13-72
-21-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:43:21-70
+21-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:43:13-72
+21-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:43:21-70
 22
 23            <data android:mimeType="text/plain" />
-23-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:44:13-50
-23-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:44:19-48
+23-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:44:13-50
+23-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:44:19-48
 24        </intent>
 25    </queries>
 26
 27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-27-->[:connectivity_plus] D:\Projects\Flutter\my_books\build\connectivity_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-79
-27-->[:connectivity_plus] D:\Projects\Flutter\my_books\build\connectivity_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:22-76
+27-->[:connectivity_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\connectivity_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-79
+27-->[:connectivity_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\connectivity_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:22-76
 28
 29    <permission
 29-->[androidx.core:core:1.13.1] C:\Users\admin\.gradle\caches\8.10.2\transforms\dfc2fbca530748e569b0737b09fa016f\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
@@ -49,32 +49,32 @@
 34
 35    <application
 36        android:name="android.app.Application"
-36-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:6:9-42
+36-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:6:9-42
 37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 37-->[androidx.core:core:1.13.1] C:\Users\admin\.gradle\caches\8.10.2\transforms\dfc2fbca530748e569b0737b09fa016f\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 38        android:extractNativeLibs="true"
 39        android:icon="@mipmap/launcher_icon"
-39-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:7:9-45
+39-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:7:9-45
 40        android:label="MyBooks" >
-40-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:5:9-32
+40-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:5:9-32
 41        <activity
-41-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:8:9-29:20
+41-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:8:9-29:20
 42            android:name="com.aravinthk.my_books.MainActivity"
-42-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:9:13-41
+42-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:9:13-41
 43            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-43-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:14:13-163
+43-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:14:13-163
 44            android:exported="true"
-44-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:10:13-36
+44-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:10:13-36
 45            android:hardwareAccelerated="true"
-45-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:15:13-47
+45-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:15:13-47
 46            android:launchMode="singleTop"
-46-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:11:13-43
+46-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:11:13-43
 47            android:taskAffinity=""
-47-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:12:13-36
+47-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:12:13-36
 48            android:theme="@style/LaunchTheme"
-48-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:13:13-47
+48-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:13:13-47
 49            android:windowSoftInputMode="adjustResize" >
-49-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:16:13-55
+49-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:16:13-55
 50
 51            <!--
 52                 Specifies an Android theme to apply to this Activity as soon as
@@ -83,21 +83,21 @@
 55                 to determine the Window background behind the Flutter UI.
 56            -->
 57            <meta-data
-57-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:21:13-24:17
+57-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:21:13-24:17
 58                android:name="io.flutter.embedding.android.NormalTheme"
-58-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:22:15-70
+58-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:22:15-70
 59                android:resource="@style/NormalTheme" />
-59-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:23:15-52
+59-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:23:15-52
 60
 61            <intent-filter>
-61-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:25:13-28:29
+61-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:25:13-28:29
 62                <action android:name="android.intent.action.MAIN" />
-62-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:26:17-68
-62-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:26:25-66
+62-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:26:17-68
+62-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:26:25-66
 63
 64                <category android:name="android.intent.category.LAUNCHER" />
-64-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:27:17-76
-64-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:27:27-74
+64-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:27:17-76
+64-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:27:27-74
 65            </intent-filter>
 66        </activity>
 67        <!--
@@ -105,58 +105,58 @@
 69             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 70        -->
 71        <meta-data
-71-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:32:9-34:33
+71-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:32:9-34:33
 72            android:name="flutterEmbedding"
-72-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:33:13-44
+72-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:33:13-44
 73            android:value="2" />
-73-->D:\Projects\Flutter\my_books\android\app\src\main\AndroidManifest.xml:34:13-30
+73-->D:\ProjecDemos\FlutterDemos\MyBooksApp\android\app\src\main\AndroidManifest.xml:34:13-30
 74        <!--
 75           Declares a provider which allows us to store files to share in
 76           '.../caches/share_plus' and grant the receiving action access
 77        -->
 78        <provider
-78-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-21:20
+78-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:9-21:20
 79            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-79-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:13-77
+79-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:13-77
 80            android:authorities="com.aravinthk.my_books.flutter.share_provider"
-80-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:13-74
+80-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:13-74
 81            android:exported="false"
-81-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:13-37
+81-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:13-37
 82            android:grantUriPermissions="true" >
-82-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:13-47
+82-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:17:13-47
 83            <meta-data
-83-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:13-20:68
+83-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:18:13-20:68
 84                android:name="android.support.FILE_PROVIDER_PATHS"
-84-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:17-67
+84-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:19:17-67
 85                android:resource="@xml/flutter_share_file_paths" />
-85-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:17-65
+85-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:17-65
 86        </provider>
 87        <!--
 88           This manifest declared broadcast receiver allows us to use an explicit
 89           Intent when creating a PendingItent to be informed of the user's choice
 90        -->
 91        <receiver
-91-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:9-32:20
+91-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:9-32:20
 92            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
-92-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:27:13-82
+92-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:27:13-82
 93            android:exported="false" >
-93-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:13-37
+93-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:28:13-37
 94            <intent-filter>
-94-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-31:29
+94-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:29:13-31:29
 95                <action android:name="EXTRA_CHOSEN_COMPONENT" />
-95-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:17-65
-95-->[:share_plus] D:\Projects\Flutter\my_books\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:25-62
+95-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:17-65
+95-->[:share_plus] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\share_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:30:25-62
 96            </intent-filter>
 97        </receiver>
 98
 99        <activity
-99-->[:url_launcher_android] D:\Projects\Flutter\my_books\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:74
+99-->[:url_launcher_android] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:74
 100            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-100-->[:url_launcher_android] D:\Projects\Flutter\my_books\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-74
+100-->[:url_launcher_android] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-74
 101            android:exported="false"
-101-->[:url_launcher_android] D:\Projects\Flutter\my_books\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
+101-->[:url_launcher_android] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
 102            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-102-->[:url_launcher_android] D:\Projects\Flutter\my_books\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-71
+102-->[:url_launcher_android] D:\ProjecDemos\FlutterDemos\MyBooksApp\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-71
 103
 104        <uses-library
 104-->[androidx.window:window:1.2.0] C:\Users\admin\.gradle\caches\8.10.2\transforms\aed2861b2b6894f7067df3f3f96b791f\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40

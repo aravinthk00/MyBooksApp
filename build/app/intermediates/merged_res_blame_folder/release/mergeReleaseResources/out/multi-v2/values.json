@@ -23,25 +23,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Projects\\Flutter\\my_books\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "1498,1502",
-                        "startColumns": "4,4",
-                        "startOffsets": "94257,94438",
-                        "endLines": "1501,1504",
-                        "endColumns": "12,12",
-                        "endOffsets": "94433,94602"
-                    }
-                },
-                {
                     "source": "C:\\Users\\admin\\.gradle\\caches\\8.10.2\\transforms\\cf3a986fc94dc98dab92da85e4b25558\\transformed\\fragment-1.7.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,10",
@@ -219,6 +200,25 @@
                         "endLines": "2225,2231,2241,3535,3539",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "140480,140658,140942,185764,185891"
+                    }
+                },
+                {
+                    "source": "D:\\ProjecDemos\\FlutterDemos\\MyBooksApp\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "1498,1502",
+                        "startColumns": "4,4",
+                        "startOffsets": "94257,94438",
+                        "endLines": "1501,1504",
+                        "endColumns": "12,12",
+                        "endOffsets": "94433,94602"
                     }
                 },
                 {

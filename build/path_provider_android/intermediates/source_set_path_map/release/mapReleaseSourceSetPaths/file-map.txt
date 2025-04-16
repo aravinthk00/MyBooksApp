@@ -20,8 +20,8 @@ io.flutter.plugins.pathprovider.path_provider_android-jetified-core-ktx-1.13.1-1
 io.flutter.plugins.pathprovider.path_provider_android-jetified-startup-runtime-1.1.1-19 C:\Users\admin\.gradle\caches\8.10.2\transforms\ffafe5f631203f4924364ba072ee19e0\transformed\jetified-startup-runtime-1.1.1\res
 io.flutter.plugins.pathprovider.path_provider_android-main-20 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.16\android\src\main\res
 io.flutter.plugins.pathprovider.path_provider_android-release-21 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.16\android\src\release\res
-io.flutter.plugins.pathprovider.path_provider_android-pngs-22 D:\Projects\Flutter\my_books\build\path_provider_android\generated\res\pngs\release
-io.flutter.plugins.pathprovider.path_provider_android-resValues-23 D:\Projects\Flutter\my_books\build\path_provider_android\generated\res\resValues\release
-io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-24 D:\Projects\Flutter\my_books\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-25 D:\Projects\Flutter\my_books\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.flutter.plugins.pathprovider.path_provider_android-release-26 D:\Projects\Flutter\my_books\build\path_provider_android\intermediates\merged_res\release\mergeReleaseResources
+io.flutter.plugins.pathprovider.path_provider_android-pngs-22 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\path_provider_android\generated\res\pngs\release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-23 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\path_provider_android\generated\res\resValues\release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-24 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-25 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\path_provider_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-release-26 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\path_provider_android\intermediates\merged_res\release\mergeReleaseResources

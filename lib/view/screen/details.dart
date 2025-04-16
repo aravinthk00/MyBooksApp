@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:my_books/view_model/book_provider.dart';
 import 'package:provider/provider.dart';
 import 'package:readmore/readmore.dart';
-import 'package:share_plus/share_plus.dart';
 
 import '../../data/model/book.dart';
 import '../../utills/util.dart';

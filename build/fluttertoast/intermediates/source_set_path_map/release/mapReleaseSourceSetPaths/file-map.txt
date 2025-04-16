@@ -20,8 +20,8 @@ io.github.ponnamkarthik.toast.fluttertoast-jetified-core-ktx-1.13.1-18 C:\Users\
 io.github.ponnamkarthik.toast.fluttertoast-jetified-startup-runtime-1.1.1-19 C:\Users\admin\.gradle\caches\8.10.2\transforms\ffafe5f631203f4924364ba072ee19e0\transformed\jetified-startup-runtime-1.1.1\res
 io.github.ponnamkarthik.toast.fluttertoast-main-20 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.12\android\src\main\res
 io.github.ponnamkarthik.toast.fluttertoast-release-21 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.12\android\src\release\res
-io.github.ponnamkarthik.toast.fluttertoast-pngs-22 D:\Projects\Flutter\my_books\build\fluttertoast\generated\res\pngs\release
-io.github.ponnamkarthik.toast.fluttertoast-resValues-23 D:\Projects\Flutter\my_books\build\fluttertoast\generated\res\resValues\release
-io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-24 D:\Projects\Flutter\my_books\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
-io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-25 D:\Projects\Flutter\my_books\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-io.github.ponnamkarthik.toast.fluttertoast-release-26 D:\Projects\Flutter\my_books\build\fluttertoast\intermediates\merged_res\release\mergeReleaseResources
+io.github.ponnamkarthik.toast.fluttertoast-pngs-22 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\fluttertoast\generated\res\pngs\release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-23 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\fluttertoast\generated\res\resValues\release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-24 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-25 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-release-26 D:\ProjecDemos\FlutterDemos\MyBooksApp\build\fluttertoast\intermediates\merged_res\release\mergeReleaseResources
