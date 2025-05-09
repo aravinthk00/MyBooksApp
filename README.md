@@ -4,7 +4,7 @@ Sure! Here's a refined and professional `README.md` tailored specifically for yo
 
 ### 📘 `README.md`
 
-```markdown
+markdown
 # 📚 MyBooks – Flutter App
 
 **MyBooks** is a Flutter application that allows users to browse and manage their favorite novels. It integrates the OpenLibrary API to fetch books under the "novel" subject and provides features like pagination, book detail views, and favorites management.
@@ -50,7 +50,7 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture pattern:
 
 ## 📁 Folder Structure
 
-```
+
 lib/
 ├── data/
 │   └── models/
@@ -61,9 +61,6 @@ lib/
 ├── view_model/
 ├── utils/
 ├── main.dart
-```
-
----
 
 ## 🛠️ Setup Instructions
 
@@ -75,29 +72,29 @@ lib/
 
 ### 2. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/aravinthk00/MyBooksApp.git
 cd mybooks-flutter
-```
+
 
 ### 3. Install Dependencies
 
-```bash
+bash
 flutter pub get
-```
+
 
 ### 4. Run the App
 
-```bash
+bash
 flutter run
-```
+
 
 For web:
 
-```bash
+bash
 flutter build web
 flutter serve
-```
+
 
 ---
 
@@ -121,11 +118,7 @@ flutter serve
 ---
 
 ## 🖼️ Screenshots
-
-![books_list](https://github.com/user-attachments/assets/a59f7805-3c60-4388-9a8f-0ed24af901c1)
-![favourites](https://github.com/user-attachments/assets/c005f0da-94a6-4f9a-bec9-398c81e0e451)
-![details](https://github.com/user-attachments/assets/1be6121e-4152-4e69-9ab2-646e1997e643)
-
+![MyBooks App](https://github.com/user-attachments/assets/35b01251-a873-46bb-9bbf-aa1cf3dfeb84)
 
 ---
 
@@ -149,7 +142,7 @@ For issues or feature requests, reach out at: [support@mybooks.app](mailto:suppo
 ---
 
 **Happy Reading! 📚**
-```
+
 
 ---
 
